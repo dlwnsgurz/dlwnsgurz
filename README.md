@@ -8,4 +8,4 @@
 - ⌨️ Algorithm For Coding Test.
 - 👓 Focusing On iOS
 
-![dlwnsgurz's GitHub stats](https://github-readme-codeSTACKr.app/api?username=dlwnsgurz&show_icons=true&theme=radical)
+![dlwnsgurz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgurz&show_icons=true&theme=radical)
