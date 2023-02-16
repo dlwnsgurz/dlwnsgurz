@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"/>
+<img src="https://img.shields.io/badge/ljhlmkljhlmkljhlmk@naver.com-03C75A?style=flat&logo=Naver&logoColor=green"/>
 
 ### 📙 Studying
 
