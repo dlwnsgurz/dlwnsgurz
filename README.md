@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/>
+<img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=black"/>
 
 ### 📙 Studying
 
