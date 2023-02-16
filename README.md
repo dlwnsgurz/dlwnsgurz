@@ -6,6 +6,7 @@ Currently interested in mobile app development.
 
 😆 Studying iOS through Swift and UIKit
 
+
 ---
 
 ### 📙 Studying
@@ -29,4 +30,4 @@ Currently interested in mobile app development.
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-000000?style=flat&logo=Visual Studio&logoColor=purple"/></a>
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnsgurzzz)](https://solved.ac/dlwnsgurzzz/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnsgurzzz)](https://solved.ac/dlwnsgurzzz/)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwnsgurz&layout=demo&theme=tokyonight)
