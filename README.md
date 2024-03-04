@@ -4,7 +4,7 @@ I'm a student studying Computer Science at 🚋 Soongsil University.
 
 Currently interested in mobile app development.
 
-😆 Studying iOS through Swift and UIKit
+😆 Studying Flutter
 
 
 ---
@@ -13,7 +13,7 @@ Currently interested in mobile app development.
 
 - 🖥 Computer Science At Soongsil Univ.
 - ⌨️ Algorithm For Coding Test.
-- 👓 Mobile App Development (iOS)
+- 👓 Mobile App Development (Flutter)
 
 
 ---
