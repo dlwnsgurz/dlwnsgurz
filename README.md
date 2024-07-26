@@ -4,20 +4,18 @@ I'm a student studying Computer Science at 🚋 Soongsil University.
 
 Currently interested in mobile app development & Web FrontEnd development
 
-😆 Studying Flutter & React
-
+😆 Studying Flutter & React...
 
 ---
 
 ### 📙 Studying
-
--  Computer Science At Soongsil Univ.
 -  Algorithm For Coding Test.
 -  Mobile App Development (Flutter & iOS Native)
 -  Web Development (React.js & Node.js)
-
+  
 ---
 ### Experience 
+- 숭실대학교 컴퓨터학부 (2019.02 ~ ) 
 - 한국전자통신연구원 인턴연수생 (24.07.01 ~ 24.08.31) : 4G/5G 적기 주파수 공급 및 B5G 주파수 확보 기술 연구 및 시스템 개발을 수행.
 
 
