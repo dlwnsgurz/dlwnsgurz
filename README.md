@@ -10,7 +10,7 @@ Currently interested in mobile app development & Web FrontEnd development
 
 ### 📙 Studying
 -  Algorithm For Coding Test. (C++ & Python)
--  Mobile App Development (Flutter & iOS Nativa)
+-  Mobile App Development (Flutter & iOS Native)
 -  Web Development (React & Node.js)
   
 ---
