@@ -2,16 +2,15 @@
 
 I'm a student studying Computer Science at 🚋 Soongsil University.
 
-Currently interested in mobile app development & Web FrontEnd development
+Currently interested in mobile app development
 
-😆 Studying Flutter & React...
+😆 Studying Flutter & iOS
 
 ---
 
 ### 📙 Studying
 -  Algorithm For Coding Test. (C++ & Python)
 -  Mobile App Development (Flutter & iOS Native)
--  Web Development (React & Node.js)
   
 ---
 ### Experience 
