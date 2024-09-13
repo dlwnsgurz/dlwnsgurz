@@ -33,7 +33,6 @@ Currently interested in mobile app development
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=Visual Studio Code&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-000000?style=flat&logo=Visual Studio&logoColor=purple"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"></a>
 
 
 ---
