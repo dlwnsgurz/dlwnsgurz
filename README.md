@@ -15,8 +15,8 @@ Currently interested in mobile app development
 ---
 
 ### Certifications
-- 정보처리기사 (2024.06.18)
 - SQLD (2024.05.25)
+- 정보처리기사 (2024.06.18)
 - SAP Certified Associate Back-End Developer - ABAP Cloud (2024.12.22)
 
 --- 
