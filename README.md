@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dlwnsgurz&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dlwnsgurz"
+    width="600"
+    height="120"
+  />
+</a>
+  
 I'm a student studying Computer Science at 🚋 Soongsil University.
 
 Currently interested in mobile app development
