@@ -50,8 +50,7 @@ Currently interested in mobile app development
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-000000?style=flat&logo=Xcode&logoColor=147EFB"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-FFFFFF?style=flat&logo=Flutter&logoColor=41d0fd"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=Visual Studio Code&logoColor=blue"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-000000?style=flat&logo=Visual Studio&logoColor=purple"/></a>
+
 
 
 
