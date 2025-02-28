@@ -56,4 +56,5 @@ Currently interested in mobile app development
 
 
 ---
+![dlwnsgurz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwnsgurz&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwnsgurzzz)](https://solved.ac/dlwnsgurzzz/) 
