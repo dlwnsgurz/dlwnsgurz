@@ -12,14 +12,12 @@ I'm a student studying Computer Science at 🚋 Soongsil University.
 
 Currently interested in mobile app development
 
-😆 Studying Flutter & iOS
+😆 Studying iOS
 
 ---
 
 ### 📙 Studying
--  Algorithm For Coding Test. (C++ & Python)
--  Mobile App Development (Flutter & iOS Native)
--  Finance (Investment Asset Management & Financial Concepts)
+-  Mobile App Development (iOS Native)
 ---
 
 ### Certifications
